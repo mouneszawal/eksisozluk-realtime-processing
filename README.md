@@ -82,12 +82,6 @@ Install the following Python libraries:
 - `textblob`
 - `matplotlib`
 
-## AWS Setup
-1. **Athena**:
-   - Create a database and table to store the crawled data.
-2. **S3**:
-   - Configure an S3 bucket for Athena query results and temporary files.
-
 ## Future Improvements
 - Add live dashboards for continuous monitoring.
 - Implement advanced NLP techniques (e.g., topic modeling).
