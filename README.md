@@ -16,6 +16,7 @@ This project performs real-time analysis on trending topics from Ekşi Sözlük,
 
 ## Technologies Used
 - **Python Libraries**:
+  - `kafka-python`: Kafka framework.
   - `Selenium`: Web scraping.
   - `PyAthena`: Athena database queries.
   - `TextBlob`: Sentiment analysis.
